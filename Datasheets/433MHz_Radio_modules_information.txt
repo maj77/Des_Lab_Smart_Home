@@ -1,0 +1,3 @@
+433 MHz Radio Modules information (no datasheet has been found):  
+
+https://www.componentsinfo.com/fs1000a-433mhz-rf-transmitter-xy-mk-5v-receiver-module-explanation-pinout/ 
