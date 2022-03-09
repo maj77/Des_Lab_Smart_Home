@@ -7,4 +7,4 @@ Bluetooth receiver. BT receiver sends messages using UART to ATmega328PB slave d
 devices control end point equipment.
 
 
-![image](https://user-images.githubusercontent.com/38226349/157454824-dcdb6dda-b1c1-45e0-822b-b4a5e823d92e.png)
+![image](https://user-images.githubusercontent.com/38226349/157455053-fffb2681-535e-48d0-9866-7b4fb9c4cb44.png)
