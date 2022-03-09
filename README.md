@@ -1,4 +1,4 @@
-# DesLab__Maj_Zimnol
+# Simple Smart Home system
 The project is simple smart home device which can control basic home devices like lights in 
 room, LED tapes. System consist master device (Mobile phone with Bluetooth and android OS) which 
 controls slave devices using Bluetooth device (HC-05).
